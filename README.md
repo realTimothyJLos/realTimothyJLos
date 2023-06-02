@@ -7,3 +7,6 @@ I became interested in software development while in elementary school; however,
 
 # Personal Projects
 At times, I build my own projects and might incorporate them into #Rante or #FYS. All of the projects associated with my profile does not imply usage within #Rante or #FYS, even if some or all portions of he personal project are incorporated within either the Rante Cloud or FYS; as such, those repositories might be removed from my GitHub account in accordance with licensing and other legal requirements.
+
+# Alternative Markets 
+Right now, I am focused on alternative markets when it comes to LegalTech and RegTech, such as compliance in crypto, blockchain, and cannabis through tracking and beneficial ownership. 
