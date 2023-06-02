@@ -6,6 +6,4 @@ I focus on compliance in the LegalTech and RegTech environment, particularly cro
 I became interested in software development while in elementary school; however, I did not pursue it until teaching myself while at Purdue University. While I studied Political Science and attend law school, I kept improving my technical skills.
 
 # Personal Projects
-At times, I build my own projects and might incorporate them into #Rante or #FYS. All of the projects associated with my profile does not imply usage within #Rante or #FYS, even if some or all portions of he personal project are incorporated within either the Rante Cloud or FYS.
-
-Projects are hosted on either Azure DevOps or GitHub
+At times, I build my own projects and might incorporate them into #Rante or #FYS. All of the projects associated with my profile does not imply usage within #Rante or #FYS, even if some or all portions of he personal project are incorporated within either the Rante Cloud or FYS; as such, those repositories might be removed from my GitHub account in accordance with licensing and other legal requirements.
