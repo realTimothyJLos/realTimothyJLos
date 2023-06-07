@@ -4,7 +4,7 @@ Welcome to my personal page! I am a non-practicing lawyer with a background in t
 
 My primary focus is on compliance in the LegalTech and RegTech environment, specifically related to cross-border data exchanges and data privacy. 
 
-My interest in software development began during my elementary school years, although I didn't pursue it actively until I taught myself while attending Purdue University. While studying Political Science and attending law school, I continued to enhance my technical skills.
+My interest in software development began during my elementary school years, although I didn't pursue it actively until I taught myself while attending Purdue University. While studying Political Science and attending law school and receiving my JD and LLM, I continued to enhance my technical skills.
 
 ## Personal Projects
 
