@@ -14,6 +14,4 @@ Occasionally, I work on personal projects that may be integrated into #Rante or 
 
 Currently, my focus lies in alternative markets within LegalTech and RegTech. This involves compliance considerations in areas such as crypto, blockchain, and cannabis, specifically in tracking and beneficial ownership.
 
-## FindYourSpirit - Connecting Hotels and Restaurants for an Enhanced Guest Experience
-
 I am currently working on **[Find Your Spirit]**(https://github.com/findyourspirit), an exciting project aimed at enhancing the guest experience by connecting hotels and restaurants through an open API. This initiative will enable seamless communication and collaboration between hospitality businesses, resulting in a more personalized and satisfying experience for guests.
